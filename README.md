@@ -1,5 +1,7 @@
 DATA ANALYSIS AND VISUALIZATION
+
 INTRODUCTION
+
 The data analysis aims to compare the level of awareness, knowledge, and perception among optometry students studying across the eight(8) accredited optometry faculties in  tertiary institutions in Nigeria.
 this comparison was carried out across different ages, genders, levels, and institutions.
 we sought to find out patterns, similarities, and differences among these variables which would inform us on what part of the training the students were below average
@@ -8,5 +10,8 @@ The expected long-term goal of this analysis is an improvement in the notion of 
 
 DATA
 The data for this analysis can be viewed from this file
+[RAW DATA.xlsx…]()
+
+The file contains the responses of the different students to a questionnaire with 3 different sections to assess the awareness, knowledge, and perceptions of these students respectively. It also contains the age, level, gender, and institution of learning of the students.
 
 
